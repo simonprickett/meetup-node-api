@@ -1,0 +1,24 @@
+{
+	"groups": [
+		{
+			"id": "pythonsd",
+			"name": "San Diego Python Users Group"
+		},
+		{
+			"id": "roboticsclub",
+			"name": "San Diego Robotics Club"
+		},
+		{
+			"id": "Open-San-Diego",
+			"name": "Open San Diego"
+		},
+		{
+			"id": "SanDiegoPHP",
+			"name": "San Diego PHP"
+		},
+		{
+			"id": "sandiegojs",
+			"name": "San Diego JavaScript Community"
+		}
+	]
+}
