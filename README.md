@@ -1,6 +1,6 @@
-#meetup-node-api
+# meetup-node-api
 
-##Server
+## Server
 
 ```
 cd server
@@ -24,7 +24,7 @@ example:
 http://localhost:8080/events/pythonsd
 ```
 
-##Client
+## Client
 
 ```
 cd client
