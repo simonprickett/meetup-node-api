@@ -2,6 +2,14 @@
 
 ## Server
 
+Requires a Meetup API key, set it using an environment variable, or hard code it into `server/server.js`.  Example use of environment variable:
+
+```
+export MEETUP_API_KEY=key_goes_here
+```
+
+Do this before starting the server.
+
 ```
 cd server
 npm install
